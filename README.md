@@ -3,7 +3,7 @@
 ---
 - Write-Up : https://blog.naver.com/ksw9722/223840818573
 
-| Stage             | Write-Up Link |
+| Stage             | Write-Up Link                                      |
 |------------------|----------------|
 | 0. Rule          | [Link](https://blog.naver.com/ksw9722/223607918203) |
 | 01. Unstoppable  | [Link](https://blog.naver.com/ksw9722/223608022351) |
